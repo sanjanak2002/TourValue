@@ -13,7 +13,7 @@ I have chosen the topic Open Innovation and under that I have taken Tourism. My 
  - Downnload the zip file from the github link provided. Extract those files on a folder without leaving anything aside. 
  - Open index.html file. That is the homepage of the website.
  - Almost all the buttons and attribute are functionable as described in detail in the video uploaded. So you can navigate between pages.
- - To inspect the code, you can check on github before dowmloading the page.
+ - To inspect the code, you can check on github before downloading the page.
 
  ## Credits
 -  Outline page layout template rights belong to templatemo.com
